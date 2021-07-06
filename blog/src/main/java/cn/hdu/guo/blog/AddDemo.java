@@ -9,8 +9,8 @@ package cn.hdu.guo.blog;
  */
 public class AddDemo {
 	/**
-	 * xx
-	 * @param args
+	 * Commit2
+	 * @param
 	 */
 	public static void main(String[] args) {
 		System.out.println("yes");
