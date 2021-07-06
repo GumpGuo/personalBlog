@@ -9,7 +9,7 @@ package cn.hdu.guo.blog;
  */
 public class AddDemo {
 	/**
-	 * xxGGGGRes
+	 * Commit1
 	 * @param args
 	 */
 	public static void main(String[] args) {
