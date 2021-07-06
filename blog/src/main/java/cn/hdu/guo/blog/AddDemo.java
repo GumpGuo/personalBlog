@@ -8,6 +8,10 @@ package cn.hdu.guo.blog;
  * @date 17:21 2021/7/3
  */
 public class AddDemo {
+	/**
+	 * xx
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		System.out.println("yes");
 	}
