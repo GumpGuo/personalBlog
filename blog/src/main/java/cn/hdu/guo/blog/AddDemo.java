@@ -8,9 +8,8 @@ package cn.hdu.guo.blog;
  * @date 17:21 2021/7/3
  */
 public class AddDemo {
-
 	/**
-	 * asdasdasvvcccc
+	 * xxGGGGRes
 	 * @param args
 	 */
 	public static void main(String[] args) {
